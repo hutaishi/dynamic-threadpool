@@ -10,7 +10,7 @@
     <artifactId>hippo4j-adapter-dubbo</artifactId>
 
     <properties>
-        <dubbo.version>3.0.5</dubbo.version>
+        <dubbo.version>3.0.13</dubbo.version>
     </properties>
 
     <dependencies>
